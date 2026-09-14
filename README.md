@@ -8,6 +8,10 @@ of list items and running animation on top of it at the same time** — the maso
 scroll-driven UI, and tab transitions below are all built around that constraint rather
 than around visual polish alone.
 
+<p align="center">
+  <img src="./assets/screenshots/home.png" alt="Home feed — masonry grid, category tabs, squircle tab bar" width="320" />
+</p>
+
 ## Performance-oriented decisions
 
 - **`@shopify/flash-list` (new-arch `masonry` mode)** instead of a `ScrollView` +
